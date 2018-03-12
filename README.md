@@ -1,1 +1,1 @@
-# CaiCloud
+# CaiCloud Design Guideline
